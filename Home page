@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>White Water Rafting Adventures</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>White Water Rafting Adventures</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Trips</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Experience the Thrill of White Water Rafting</h2>
+        <p>Join us for an unforgettable adventure on the wildest rivers!</p>
+        <a href="#" class="btn">Book Now</a>
+    </section>
+
+    <section class="featured-trips">
+        <h2>Featured Trips</h2>
+        <div class="trip">
+            <img src="rafting_trip1.jpg" alt="Rafting Trip 1">
+            <h3>Trip 1</h3>
+            <p>Exciting white water rafting experience on the River XYZ.</p>
+        </div>
+        <div class="trip">
+            <img src="rafting_trip2.jpg" alt="Rafting Trip 2">
+            <h3>Trip 2</h3>
+            <p>Scenic rafting adventure through the breathtaking canyons.</p>
+        </div>
+    </section>
+
+    <section class="about">
+        <h2>About Us</h2>
+        <p>Learn about our experienced guides and our commitment to safety.</p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or want to book a trip? Contact us today!</p>
+        <a href="#" class="btn">Contact Us</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 White Water Rafting Adventures</p>
+    </footer>
+</body>
+
+</html>
